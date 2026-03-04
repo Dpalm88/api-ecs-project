@@ -1,7 +1,7 @@
 # api-ecs-project
 Flask microservice deployed to AWS ECS Fargate with CloudWatch monitoring
 
-# IDX-Style API — AWS ECS Fargate + CloudWatch Monitoring
+# Microservices API — AWS ECS Fargate + CloudWatch Monitoring
 
 A production-style REST API microservice built to mirror real-world 
 cloud infrastructure used by identity verification platforms.
