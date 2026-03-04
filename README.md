@@ -178,9 +178,8 @@ curl http://localhost:5001/api/v1/members/error_test/status
 
 ---
 
-*Built as part of AWS Solutions Architect Associate (SAA-C03) 
+*uilt as part of AWS Solutions Architect Associate (SAA-C03) 
 certification preparation — hands-on project mirroring 
-real production infrastructure patterns.*
+real production infrastructure patterns.
 ````
 
-Once you paste that in and commit it, upload your screenshots to `docs/screenshots/` using the **Add file** button on GitHub and the images will render inline in the README automatically.
