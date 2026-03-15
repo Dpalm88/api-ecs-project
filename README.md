@@ -178,7 +178,7 @@ curl http://localhost:5001/api/v1/members/error_test/status
 
 ---
 
-*uilt as part of AWS Solutions Architect Associate (SAA-C03) 
+Built as part of AWS Solutions Architect Associate (SAA-C03) 
 certification preparation — hands-on project mirroring 
 real production infrastructure patterns.
 ````
